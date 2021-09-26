@@ -26,7 +26,7 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github-readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=GMKanat&hide=html,css&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=GMKanat&theme=tokyonight" />
 </a>
 </div>
