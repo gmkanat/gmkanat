@@ -26,7 +26,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css&theme=tokyonight" />
 </a>
 </div>
