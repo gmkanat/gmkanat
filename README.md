@@ -1,4 +1,4 @@
-## Привет! 👋 [gmkanat]
+## Hi! 👋 [gmkanat]
 <div align="center">
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&style=flat-square)
@@ -21,7 +21,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/GMKanat?style=social">
 </div>
 
-## :trophy: Моя GitHub Статистика:
+## :trophy: My Github stats:
 <div>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight">
