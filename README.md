@@ -1,16 +1,16 @@
 ## Привет! 👋 [gmkanat]
 <div align="center">
   
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&style=flat-square)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) 
-![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) 
-![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&style=flat-square)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat-square)
 
 
 </div>
@@ -23,10 +23,11 @@
 
 ## :trophy: Моя GitHub Статистика:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight" />
+</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&hide_rank=true" />
 </a>
 </div>
